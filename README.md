@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CV-China
-- 👀 I’m interested in ComputerVision, SLAM, MachineLearning and DeepLearning
+- 👀 I’m interested in Computer Vision, SLAM, MachineLearning and DeepLearning
 - 🌱 I’m currently learning Mono SLAM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
